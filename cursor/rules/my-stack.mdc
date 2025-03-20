@@ -1,0 +1,22 @@
+---
+description: lkit-
+globs: 
+alwaysApply: false
+---
+---
+description: Tech Stack
+globs: 
+---
+# Core Stack
+
+- Bundler: Vite
+- Framework: React
+- Language: TypeScript
+- HTTP Client: Axios
+
+# Additional Libraries
+
+- Routing: React Router DOM
+- State Management: Redux Toolkit - Redux Persist
+- Styling: Material UI
+- Testing: Jest, React Testing Library 
